@@ -1,0 +1,1 @@
+Ýndirdikten sonra npm install yapmayý unutmayýn. node_modules klasörünü yüklemedim çünkü
